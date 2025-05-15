@@ -30,6 +30,8 @@ The project covers multiple financial metrics, including loan approvals, custome
 - Analyzed financial health metrics across customer segments
 - Optimized data presentation for clear business decision-making
 
+  POWER BI DASHBOARDS
+
 ![image_alt](https://github.com/Inzamx/BANK-LOAN-ANALYSIS-PERFORMANCE-DASHBOAERD/blob/be367b870119bd609d0a6fb5e955494baeb93ca0/Screenshot%202025-05-15%20180007.png)
-![image_alt]
+![image_alt](https://github.com/Inzamx/BANK-LOAN-ANALYSIS-PERFORMANCE-DASHBOAERD/blob/5ac3c3c13152a0fc2b387a4347ad3a859a645ae0/Screenshot%202025-05-15%20180021.png)
 ![image_alt]
