@@ -14,11 +14,14 @@ The project covers multiple financial metrics, including loan approvals, custome
 - Performing aggregations for trend analysis
   
 3️⃣ Data Visualization
+
 🔷 Excel
 - Initial data exploration & pivot tables for quick summary statistics
+  
 🔷 Power BI
 - Connecting Power BI to MySQL
 - Building interactive dashboards for financial insights
+  
 🔷 Tableau
 - Creating highly visual reports to present loan trends, customer behavior, and risk analysis
   
