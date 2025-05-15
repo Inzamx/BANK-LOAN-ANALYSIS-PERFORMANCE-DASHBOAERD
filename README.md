@@ -24,10 +24,12 @@ The project covers multiple financial metrics, including loan approvals, custome
   
 🔷 Tableau
 - Creating highly visual reports to present loan trends, customer behavior, and risk analysis
-
-![image_alt](https://github.com/Inzamx/BANK-LOAN-ANALYSIS-PERFORMANCE-DASHBOAERD/blob/be367b870119bd609d0a6fb5e955494baeb93ca0/Screenshot%202025-05-15%20180007.png)
   
 4️⃣ Key Insights & Findings
 - Identified patterns in loan approvals and defaults
 - Analyzed financial health metrics across customer segments
 - Optimized data presentation for clear business decision-making
+
+![image_alt](https://github.com/Inzamx/BANK-LOAN-ANALYSIS-PERFORMANCE-DASHBOAERD/blob/be367b870119bd609d0a6fb5e955494baeb93ca0/Screenshot%202025-05-15%20180007.png)
+![image_alt]
+![image_alt]
