@@ -1,1 +1,3 @@
 # Bank-Loan-Analysis-Performance-Dashboard
+This portfolio project is a comprehensive data analysis case study focused on the finance domain, guiding the process from raw data to actionable insights. The goal is to demonstrate proficiency in MySQL, Tableau, Excel, and Power BI while applying best practices in data extraction, transformation, visualization, and business intelligence.
+The project covers multiple financial metrics, including loan approvals, customer transactions, revenue patterns, and risk analysis. By structuring data-driven reports and dashboards, we can offer real-time insights to stakeholders for informed business decisions.
